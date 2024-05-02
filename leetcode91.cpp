@@ -1,4 +1,4 @@
-// leetcode 19 - decode ways
+// leetcode 91 - decode ways
 // To decode an encoded message, all the digits must be grouped then mapped back into letters using the reverse of the mapping above (there may be multiple ways).
 // Using dynamic programming to solve the problem.
 // 'left' is the number of combination before s[i], 'right' is the current number of combination.
